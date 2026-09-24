@@ -15,4 +15,5 @@ p {
 }
 .midivi p{
     background-color: transparent;
+    text-decoration: line-through;
 }
