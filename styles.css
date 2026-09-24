@@ -9,7 +9,10 @@ p {
 
 .midivi{
     width: 200px;
-    height: 100px;
+    height: auto;
     border: 2px solid black;
     background-color: purple;
+}
+.midivi p{
+    background-color: transparent;
 }
